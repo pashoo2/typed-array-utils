@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[types.ts:18](https://github.com/pashoo2/typed-array-utils/blob/master/src/types.ts#L18)
+[types.ts:18](https://github.com/pashoo2/typed-array-utils/blob/5acf579/src/types.ts#L18)
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 #### Defined in
 
-[types.ts:20](https://github.com/pashoo2/typed-array-utils/blob/master/src/types.ts#L20)
+[types.ts:20](https://github.com/pashoo2/typed-array-utils/blob/5acf579/src/types.ts#L20)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-[types.ts:16](https://github.com/pashoo2/typed-array-utils/blob/master/src/types.ts#L16)
+[types.ts:16](https://github.com/pashoo2/typed-array-utils/blob/5acf579/src/types.ts#L16)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[types.ts:3](https://github.com/pashoo2/typed-array-utils/blob/master/src/types.ts#L3)
+[types.ts:3](https://github.com/pashoo2/typed-array-utils/blob/5acf579/src/types.ts#L3)
 
 ## Functions
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[typed-array-utils.ts:9](https://github.com/pashoo2/typed-array-utils/blob/master/src/typed-array-utils.ts#L9)
+[typed-array-utils.ts:9](https://github.com/pashoo2/typed-array-utils/blob/5acf579/src/typed-array-utils.ts#L9)
 
 ___
 
@@ -104,7 +104,7 @@ ___
 
 #### Defined in
 
-[typed-array-utils.ts:97](https://github.com/pashoo2/typed-array-utils/blob/master/src/typed-array-utils.ts#L97)
+[typed-array-utils.ts:97](https://github.com/pashoo2/typed-array-utils/blob/5acf579/src/typed-array-utils.ts#L97)
 
 ___
 
@@ -124,7 +124,7 @@ ___
 
 #### Defined in
 
-[typed-array-utils.ts:81](https://github.com/pashoo2/typed-array-utils/blob/master/src/typed-array-utils.ts#L81)
+[typed-array-utils.ts:81](https://github.com/pashoo2/typed-array-utils/blob/5acf579/src/typed-array-utils.ts#L81)
 
 ___
 
@@ -144,7 +144,7 @@ ___
 
 #### Defined in
 
-[string-encoding.ts:9](https://github.com/pashoo2/typed-array-utils/blob/master/src/string-encoding.ts#L9)
+[string-encoding.ts:9](https://github.com/pashoo2/typed-array-utils/blob/5acf579/src/string-encoding.ts#L9)
 
 ___
 
@@ -167,7 +167,7 @@ https://developers.google.com/web/updates/2012/06/How-to-convert-ArrayBuffer-to-
 
 #### Defined in
 
-[string-encoding.ts:6](https://github.com/pashoo2/typed-array-utils/blob/master/src/string-encoding.ts#L6)
+[string-encoding.ts:6](https://github.com/pashoo2/typed-array-utils/blob/5acf579/src/string-encoding.ts#L6)
 
 ___
 
@@ -189,7 +189,7 @@ ___
 
 #### Defined in
 
-[typed-array-utils.ts:118](https://github.com/pashoo2/typed-array-utils/blob/master/src/typed-array-utils.ts#L118)
+[typed-array-utils.ts:118](https://github.com/pashoo2/typed-array-utils/blob/5acf579/src/typed-array-utils.ts#L118)
 
 ___
 
@@ -209,7 +209,7 @@ ___
 
 #### Defined in
 
-[typed-array-utils.ts:90](https://github.com/pashoo2/typed-array-utils/blob/master/src/typed-array-utils.ts#L90)
+[typed-array-utils.ts:90](https://github.com/pashoo2/typed-array-utils/blob/5acf579/src/typed-array-utils.ts#L90)
 
 ___
 
@@ -230,7 +230,7 @@ ___
 
 #### Defined in
 
-[typed-array-utils.ts:42](https://github.com/pashoo2/typed-array-utils/blob/master/src/typed-array-utils.ts#L42)
+[typed-array-utils.ts:42](https://github.com/pashoo2/typed-array-utils/blob/5acf579/src/typed-array-utils.ts#L42)
 
 ___
 
@@ -250,7 +250,7 @@ data is TTypedArrays
 
 #### Defined in
 
-[typed-array-utils.ts:39](https://github.com/pashoo2/typed-array-utils/blob/master/src/typed-array-utils.ts#L39)
+[typed-array-utils.ts:39](https://github.com/pashoo2/typed-array-utils/blob/5acf579/src/typed-array-utils.ts#L39)
 
 ___
 
@@ -270,7 +270,7 @@ data is TTypedArraysNative
 
 #### Defined in
 
-[typed-array-utils.ts:24](https://github.com/pashoo2/typed-array-utils/blob/master/src/typed-array-utils.ts#L24)
+[typed-array-utils.ts:24](https://github.com/pashoo2/typed-array-utils/blob/5acf579/src/typed-array-utils.ts#L24)
 
 ___
 
@@ -290,7 +290,7 @@ ___
 
 #### Defined in
 
-[typed-array-utils.ts:66](https://github.com/pashoo2/typed-array-utils/blob/master/src/typed-array-utils.ts#L66)
+[typed-array-utils.ts:66](https://github.com/pashoo2/typed-array-utils/blob/5acf579/src/typed-array-utils.ts#L66)
 
 ___
 
@@ -310,4 +310,4 @@ ___
 
 #### Defined in
 
-[typed-array-utils.ts:60](https://github.com/pashoo2/typed-array-utils/blob/master/src/typed-array-utils.ts#L60)
+[typed-array-utils.ts:60](https://github.com/pashoo2/typed-array-utils/blob/5acf579/src/typed-array-utils.ts#L60)
